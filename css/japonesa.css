@@ -1,0 +1,38 @@
+.imagen_fondo{
+    background-image: url("../img/yakuzas.jpg");
+    height: 300px;
+}
+
+nav{
+    background-color: cadetblue;
+}
+
+body{
+    font-family: 'RocknRoll One', sans-serif;
+}
+
+footer{
+    background-color:brown;
+    bottom: 0;
+    width: 100%;
+    height: 25px;
+ 
+}
+
+h1{
+    text-align: center;
+}
+
+#derechos{
+    font-size: 14px;
+    text-align: center;
+}
+
+.negrita{
+    font-weight: bold;
+    color: crimson;
+}
+
+.cursiva{
+    font-style: italic;
+}

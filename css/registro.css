@@ -1,0 +1,30 @@
+nav{
+    background-color: cadetblue;
+}
+
+body{
+    font-family: 'RocknRoll One', sans-serif;
+}
+
+.terminos{
+    color: red;
+}
+
+.derechos{
+
+    font-size: 14px;
+    text-align: center;
+    
+}
+
+footer{
+    background-color:brown;
+    position: absolute;
+    bottom: 0;
+    width: 98.8%;
+    height: 115px;
+}
+
+h1{
+    text-align: center;
+}
