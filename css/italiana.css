@@ -1,68 +1,8 @@
-nav{
-    background-color: cadetblue;
+.carousel-inner img {
+    width: 100%;
+    max-height: 460px;
 }
 
-body{
-    font-family: 'RocknRoll One', sans-serif;
-}
-
-#titulo{
-    text-align: center;
-    color: green;
-}
-
-.slider {
-
-    margin: 0 auto;
-    display: flex;
-    
-    
-    width: 70%;
-    height: 90vh;
-
-    scroll-snap-type: x mandatory;
-  
-    overflow-x: scroll;
-    overflow-y: hidden;
-
-}
-
-.slider img {
-  flex: 0 0 100%;
-  width: 100%;
-  object-fit: cover;
-  
-  scroll-snap-align: center;
-}
-
-#derechos{
-    font-size: 14px;
-    text-align: center;
-}
-
-footer{
-    background-color: brown;
-}
-
-.negrita{
-    font-weight: bold;
-    font-style: italic;
-}
-
-.subtitulo{
-    color: red;
-}
-
-.videos{
-    text-align: center;
-}
-
-.tamVideo{
-    width: 100%; 
-    max-width:800px;
-}
-
-#subtitulo1{
-    text-align: center;
-    color: coral;
+.carousel-inner{
+ height: 300px;
 }

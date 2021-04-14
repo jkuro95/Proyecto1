@@ -1,35 +1,8 @@
-p{
-    font-size: 17px;
-}
-
-body{
-    font-family: 'RocknRoll One', sans-serif;
-}
-
-footer{
-    background-color:brown;
-    bottom: 0;
+.carousel-inner img {
     width: 100%;
-    height: 160px;
+    max-height: 460px;
 }
 
-nav{
-    background-color: cadetblue;
-}
-
-h1{
-    text-align: center;
-}
-
-.derechos{
-    font-size: 14px;
-    text-align: center;
-}
-
-
-img{
-
-    display:block;
-    margin:auto;
-
+.carousel-inner{
+ height: 300px;
 }
